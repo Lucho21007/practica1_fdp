@@ -1,2 +1,2 @@
 # practica1_fdp
-La computación como herramienta de trabajo del profesional de ingeniería
+Este archivo contiene los datos del alumno 
